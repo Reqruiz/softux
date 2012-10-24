@@ -3,4 +3,4 @@ softux
 
 software for linux
 
-php 5.3+
+php 5.3.1+
